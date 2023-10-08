@@ -25,7 +25,7 @@ int main()
     case 'C': logi(); break;
     case 'D': perc(); break;
 
-    default: printf("Invalid option"); break;
+    default: printf("You entered an Invalid option"); break;
     }
     return 0;
 }
