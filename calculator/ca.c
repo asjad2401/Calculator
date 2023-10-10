@@ -15,7 +15,7 @@ int logrithm();
 int main()
 {
     char x;
-    printf("Choose from the following: \n A. Arithmetic\n B. Trignometric\n C. Log\n D. Percentage\n");
+    printf("Choose from the following options: \n A. Arithmetic\n B. Trignometric\n C. Log\n D. Percentage\n");
     (scanf(" %c", &x));
 
     switch (x)
